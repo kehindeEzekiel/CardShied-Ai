@@ -1,3 +1,22 @@
-# React + TypeScript + Vite
+# 🛡️ AI-Based ATM Fraud Detection System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Node.js-powered backend application that uses AI and behavioral biometrics to detect and prevent fraudulent ATM withdrawals — especially useful for stolen or lost card scenarios.
+
+---
+
+## 🚀 Features
+
+- 🔍 Real-time fraud detection using trained AI model
+- 🧠 Behavioral biometrics and transaction pattern analysis
+- 🔐 RESTful API with JWT-based authentication
+- 💾 PostgreSQL database integration
+- 📊 Admin dashboard for fraud monitoring
+- 📬 Email alerts for flagged transactions
+
+---
+
+
+
+---
+
+
